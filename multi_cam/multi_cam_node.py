@@ -117,5 +117,5 @@ def main():
     cam_node = MultiCamNode()
     cam_node.camera_initialization(debug=False, path ='/home/chengjing/Desktop/cv_img_save')
 
-if __name__ == "main":
+if __name__ == "__main__":
     main()
